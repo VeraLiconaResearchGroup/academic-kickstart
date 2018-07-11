@@ -69,7 +69,7 @@ enableGitInfo = false
   phone = "860 679 7625"
   skype = ""
   telegram = ""
-  slack = "veraliconalab.slack.com"
+  
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -235,10 +235,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//twitter.com/CompSysMed"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+  #[[params.social]]
+   # icon = "google-scholar"
+    # icon_pack = "ai"
+    # link = ""
 
   [[params.social]]
     icon = "github"
