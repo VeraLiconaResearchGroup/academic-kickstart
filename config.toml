@@ -258,23 +258,24 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
-  
-  [[menu.main]]
-  name = "ResearchGroup"
-  url = "#ResearchGroup"
-  weight = 4
-
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 3
-
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 2
+  
+  
+  [[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 3
+  
+   
+  [[menu.main]]
+  name = "ResearchGroup"
+  url = "#ResearchGroup"
+  weight = 4
+
 
 [[menu.main]]
   name = "Outreach"
