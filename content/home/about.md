@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [Mathematical & Computational Biology Interests]
   interests = [
-  
     "Computational Systems Biology of Cancer",
     "Network Science",
     "Reverse-engineering of biological networks",
