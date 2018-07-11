@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Center for Quantitative Medicine at UConn Health", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "veralicona@uchc.edu"
   address = "Center for Quantitative Medicine, 
   UConn School of Medicine, 
@@ -99,7 +99,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = "1"
+  map = "0"
   map_api_key = ""
   latitude = "41.7382620"
   longitude = "-72.7930099"
