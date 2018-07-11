@@ -225,10 +225,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "veralicona@uchc.edu"
+  #[[params.social]]
+   # icon = "envelope"
+   # icon_pack = "fa"
+   # link = "veralicona@uchc.edu"
 
   [[params.social]]
     icon = "twitter"
@@ -258,16 +258,18 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+  [[menu.main]]
+  name = "ResearchGroup"
+  url = "#ResearchGroup"
+  weight = 2
+
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 3
+
 
 [[menu.main]]
   name = "Projects"
