@@ -54,7 +54,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "The Vera-Licona Lab"
+  name = ""
   role = "Computational Systems Medicine Lab"
 
   # Organizations/Affiliations.
