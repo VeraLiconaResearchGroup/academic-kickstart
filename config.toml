@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "The Vera-Licona Lab"
+title = "The Vera-Licona Lab $e^5$"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -123,7 +123,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
