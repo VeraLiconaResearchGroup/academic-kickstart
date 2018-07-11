@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Center for Quantitative Medicine at UConn Health", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "bigstock-DNA-molecules-with-binary-code-83578793.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "veralicona@uchc.edu"
   address = "Center for Quantitative Medicine, UConn School of Medicine, 263 Farmington Avenue, Farmington CT 06030-6033, USA"
   office_hours = ""
