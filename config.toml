@@ -54,8 +54,8 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = ""
-  role = "Computational Systems Medicine Lab"
+  name = "Computational Systems Medicine"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
