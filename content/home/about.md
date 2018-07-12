@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "XXXX"
-  institution = "Stanford Universityyyyyy TOTO"
+  institution = "Stanford University"
   year = 2012
 
 [[education.courses]]
