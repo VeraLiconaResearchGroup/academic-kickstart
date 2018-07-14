@@ -6,13 +6,13 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
-subtitle = "test test"
+subtitle = "(Including Preprints)"
 
 # Order that this section will appear in.
-weight = 20
+weight = 15
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # List format.
 #   0 = Simple
@@ -35,4 +35,7 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+
+&dagger; indicates corresponding author, __*__ indicates equal contribution
+
 

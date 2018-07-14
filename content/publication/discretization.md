@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Benchmarking Time-Series Data Discretization on Inference Methods"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Yuezhe Li", "Tiffany Jann", "__Paola Vera-Licona__ "]
 
 # Publication type.
 # Legend:
@@ -19,18 +19,20 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "Submitted"
+publication_short = "Submitted"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "The rapid development in quantitatively measuring DNA, RNA, and protein has stimulated a great  interest  in the  development  of  reverse-engineering  methods,  that  is,  data-driven  approaches to infer the network structure or a dynamical model of the system. Many reverse engineering methods require  discrete  quantitative  data  as  input,  while  many  experimental  data  are  continuous.  While  data discretization has been considered as a pre-processing step, some studies on the reverse-engineering of intracellular networks have started to reveal the impact that the choice of data discretization has on the performance of reverse-engineering methods. However, more comprehensive studies are still greatly needed to systematically and quantitatively understand the impact that discretization methods have on inference methods. Furthermore, there is an urgent need for systematic comparative methods that can help select between discretization methods. 
+In  this  work,  we  consider  4  different  published  intracellular  networks  with  their  respective time-series datasets.  We consider each publication’s original reverse-engineering method and original datasets,  and  discretized  the  data  with  different  discretization  methods.  Across  the  4  studied  cases, changing the data discretization to a more appropriate one, improved the reverse engineering methods’ performance  by  either  increasing  the  number  of  inferred  true  positives  or  decreasing  the  number  of inferred false positives. We observed no universal best discretization method across different time-series data sets.  Thus,  we propose TEDIE, a two-step evaluation metric for ranking discretization methods for time-series data. The underlying assumption of TEDIE is that an optimal discretization method should preserve the dynamic patterns observed in the original data across all variables. We used the 4 different published data sets and networks to validate TEDIE."
+
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -39,7 +41,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -63,6 +65,10 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = "My caption 😄"
+caption = "My caption"
+
+[[url_custom]]
+    name = "Pre-print"
+    url = "https://www.biorxiv.org/content/early/2018/01/12/247346"
 
 +++

@@ -17,7 +17,7 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
@@ -31,3 +31,4 @@ list_format = 1
 publication_type = "-1"
 +++
 
+&dagger; indicates corresponding author, __*__ indicates equal contribution

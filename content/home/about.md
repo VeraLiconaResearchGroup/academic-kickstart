@@ -9,31 +9,33 @@ weight = 5
 
   
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+#[interests]
+#  interests = [
+#    "Artificial Intelligence",
+#    "Computational Linguistics",
+#    "Information Retrieval"
+# ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "XXXX"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "XXXX"
+#  institution = "Stanford University"
+#  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
-# Computational Systems Medicine
+# The Vera-Licona Research Group
 
-The Vera-Licona research group works on a variety of problems within the fields of computational systems medicine, computational systems biology, mathematical biology and bioinformatics. The core of the research is on the design and software development of mathematical algorithms for the modeling, simulation and control of biological networks such as gene regulatory networks, intra-cellular signaling networks and functional brain networks. While the mathematical and computational tools employed are varied, many of the approaches developed have a flavor of fields such as discrete mathematics (graph theory and combinatorics), algebra, computational algebra as well as machine learning and network science. 
+Our research is at the intersection of computational systems medicine and systems biology, mathematical biology and bioinformatics. We work on the design, software development and application of mathematical algorithms for the modeling, simulation and control of biological systems. 
+
+In molecular biology the systems of our interest include gene regulatory networks and intracellular signaling networks where we aim to understand the cells' intricate regulatory programs and disregulation in diseases such as cancer. Our ultimate goal is the development of cell reprogramming and control strategies that can translate into novel therapeutics.

@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "The Vera-Licona Labbb"
+title = "The Vera-Licona Lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,7 +55,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "The Vera-Licona Research Group"
+  name = "Computational Systems Medicine"
   role = ""
 
   # Organizations/Affiliations.
@@ -263,7 +263,6 @@ enableGitInfo = false
   url = "#about"
   weight = 1
   
-  
   [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
@@ -273,16 +272,15 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 3
+  
+  [[menu.main]]
+  name = "Outreach"
+  url = "#outreach"
+  weight = 4
    
   [[menu.main]]
   name = "ResearchGroup"
-  url = "#ResearchGroup"
-  weight = 4
-
-
-[[menu.main]]
-  name = "Outreach"
-  url = "#Outreach"
+  url = "#researchgroup"
   weight = 5
 
 [[menu.main]]
