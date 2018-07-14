@@ -9,6 +9,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 # Add changes to git.
 git checkout master
+git pull
 git add .
 
 # Commit changes.
