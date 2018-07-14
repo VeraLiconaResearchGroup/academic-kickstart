@@ -1,6 +1,6 @@
 +++
 title = "kkbkblb"
-date = {{ .Date }}
+date = 2016-04-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
