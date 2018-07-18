@@ -17,6 +17,7 @@ image_preview = "bigstock-DNA-molecules-with-binary-code-83578793.jpg"
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
+
 # Does the project detail page use math formatting?
 math = false
 
@@ -31,4 +32,7 @@ caption = ""
 
 +++
 
-Full description of TEDIE with documentation, downloadable data sample and appropriate links
+Full description of TEDIE with 
+1) documentation 
+2) downloadable data sample
+3) Link to preprint in BioArXiv (and eventually to paper)

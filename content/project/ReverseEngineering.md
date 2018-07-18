@@ -1,6 +1,6 @@
 +++
 title = "Development of Novel Network Inference Methods"
-date = 2016-04-27T00:00:00
+date = 2016-04-28
 draft = false
 
 # Tags: can be used for filtering projects.

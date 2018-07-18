@@ -6,11 +6,11 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Selected Publications"
+title = "Preprints"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 32
 
 # List format.
 #   0 = Simple
@@ -31,4 +31,3 @@ list_format = 2
 publication_type = "-1"
 +++
 
-&dagger; indicates corresponding author, __*__ indicates equal contribution

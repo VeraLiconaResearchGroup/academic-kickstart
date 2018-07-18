@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 10
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
@@ -59,9 +59,9 @@ filter_default = 0
    tag = ".neuralnets"  
       
    
-[[filter]]
-   name = "Education & Outreach"
-   tag = ".outreach"
+#[[filter]]
+#   name = "Education & Outreach"
+#   tag = ".outreach"
    
    
 #[[filter]]

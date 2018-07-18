@@ -6,10 +6,10 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
-subtitle = "(Including Preprints)"
+subtitle = ""
 
 # Order that this section will appear in.
-weight = 25
+weight = 30
 
 # Number of publications to list.
 count = 5

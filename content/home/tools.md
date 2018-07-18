@@ -8,7 +8,7 @@ title = "Tools"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 45
 
 # Content.
 # Display content from the following folder.
