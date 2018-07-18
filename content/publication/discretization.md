@@ -5,7 +5,7 @@ title = "Benchmarking Time-Series Data Discretization on Inference Methods"
 date = "2018-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yuezhe Li", "Tiffany Jann", "__Paola Vera-Licona__ "]
+authors = ["Yuezhe Li", "Tiffany Jann", "__Paola Vera-Licona__ &dagger;"]
 
 # Publication type.
 # Legend:
@@ -16,7 +16,7 @@ authors = ["Yuezhe Li", "Tiffany Jann", "__Paola Vera-Licona__ "]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Submitted"
@@ -37,11 +37,11 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["ReverseEngineering"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://www.biorxiv.org/content/early/2018/01/12/247346"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,10 +64,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = "My caption"
+caption = ""
 
-[[url_custom]]
-    name = "Pre-print"
-    url = "https://www.biorxiv.org/content/early/2018/01/12/247346"
 
 +++

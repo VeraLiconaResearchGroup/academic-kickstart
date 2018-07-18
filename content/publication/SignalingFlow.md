@@ -37,11 +37,11 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["StructureControl"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://www.biorxiv.org/content/early/2018/07/10/272344"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,10 +64,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = "My caption"
+caption = ""
 
-[[url_custom]]
-    name = "Pre-print"
-    url = "https://www.biorxiv.org/content/early/2018/07/10/272344"
 
 +++
