@@ -1,18 +1,30 @@
 +++
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
+# Projects widget.
+widget = "projects"
+active = true
+date = 2016-04-20T00:00:00
 
-date = "2017-01-19T00:00:00"
-draft = false
-
-title = "Outreach"
+title = "Education & Outreach"
 subtitle = ""
-widget = "custom"
 
 # Order that this section will appear in.
-weight = 35
+weight = 50
+
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "outreach"
+
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards.
+view = 0
+
+
 
 +++
+
+
 
 Our research group is involved in several education and outreach activities and programs throughout the year. Here is a list of the current ones:
 
