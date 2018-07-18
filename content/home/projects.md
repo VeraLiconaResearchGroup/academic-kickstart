@@ -18,8 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
-
+view = 1
 
 # Filter toolbar.
 
@@ -29,17 +28,45 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+   name = "Network Inference"
+   tag = ".network-inference"
+
+   
  [[filter]]
-   name = "All"
-   tag = "*"
-#  
+   name = "Structure-Based Control"
+   tag = ".structure-based-control" 
+   
  [[filter]]
-   name = "Deep Learning"
-   tag = ".deep-learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = ".demo"
+   name = "Breast Cancer"
+   tag = ".TNBC"
+
+ [[filter]]
+   name = "Lyme Disease"
+   tag = ".lyme" 
+   
+ [[filter]]
+   name = "CD8 T Cell Differentiation"
+   tag = ".cd8" 
+   
+   
+ [[filter]]
+   name = "Neural Networks"
+   tag = ".neuralnets"  
+      
+   
+[[filter]]
+   name = "Education & Outreach"
+   tag = ".outreach"
+   
+   
+#[[filter]]
+#  name = "Other"
+#  tag = ".demo"
 
 +++
 
