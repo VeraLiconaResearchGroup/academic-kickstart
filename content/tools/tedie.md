@@ -4,7 +4,7 @@ date = 2018-07-17
 draft = false
 
 # Tags: can be used for filtering tools.
-tags = ["data-discretization"]
+tags = ["data-discretization", "boolean-networks"]
 
 # Tool summary to display on homepage.
 summary = "TEDIE is a two-step evaluation method for ranking discretization methods for time-series data"

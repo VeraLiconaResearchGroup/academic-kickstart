@@ -21,12 +21,31 @@ folder = "outreach"
 view = 0
 
 
+[[filter]]
+  name = "All"
+  tag = "*"
 
+[[filter]]
+   name = "Graduate Level"
+   tag = ".graduate"
+
+   
+ [[filter]]
+   name = "Undergraduate Level"
+   tag = ".undergraduate"
+   
+   
+   [[filter]]
+   name = "High School Level"
+   tag = ".high-school"
+   
+  
+   
 +++
 
 
 
-Our research group is involved in several education and outreach activities and programs throughout the year. Here is a list of the current ones.
+Our research group is involved in several education and outreach activities and programs throughout the year. Here is a list of some relevant ones.
 
 
 
