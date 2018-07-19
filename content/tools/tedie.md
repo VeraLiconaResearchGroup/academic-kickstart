@@ -8,7 +8,7 @@ draft = false
 tags = ["data-discretization"]
 
 # Project summary to display on homepage.
-summary = "Very Brief description of TEDIE that will appear on main page card"
+summary = "TEDIE is a two-step evaluation method for ranking discretization methods for time-series data"
 
 
 # Optional image to display on homepage.
