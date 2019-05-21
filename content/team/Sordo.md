@@ -1,18 +1,18 @@
 +++
-title = "Paola Vera-Licona"
-date = 2018-07-27T00:00:00
+title = "Luis Sordo-Vieira"
+date = 2017-07-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["current"]
+# Example: `tags = ["current", "alumni"]`
+tags = ["alumni"]
 
 # Project summary to display on homepage.
-summary = "Group Leader"
+summary = "Postdoc"
 
 
 # Optional image to display on homepage.
-image_preview = "Vera-Licona.jpg"
+image_preview = "portrait.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -30,5 +30,3 @@ image = ""
 caption = ""
 
 +++
-
-jhb

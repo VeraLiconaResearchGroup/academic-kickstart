@@ -1,6 +1,6 @@
 +++
-title = "MD/PhD Student"
-date = 2016-04-27T00:00:00
+title = "Lauren Marazzi"
+date = 2018-06-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Lauren Marazzi"
+summary = "MD/PhD Student"
 
 
 # Optional image to display on homepage.

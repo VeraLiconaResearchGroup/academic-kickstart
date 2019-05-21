@@ -1,6 +1,6 @@
 +++
-title = "Undergrad/Intern"
-date = 2016-04-27T00:00:00
+title = "Leelakrishna Channa"
+date = 2018-05-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,11 +8,11 @@ draft = false
 tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Leelakrishna Channa"
+summary = "Undergrad/Intern"
 
 
 # Optional image to display on homepage.
-image_preview = "portrait.jpg"
+image_preview = "UConn-kris.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

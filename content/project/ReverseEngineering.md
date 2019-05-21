@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["network-inference", "reverse-engineering", "data-discretization"]
+tags = ["discrete-modeling", "network-inference", "reverse-engineering", "data-discretization"]
 
 # Project summary to display on homepage.
 summary = "Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include: (1) Data discretization, (2) Static Network and Dynamical Model’s Inference, (3) Validation and Benchmarking of Reverse-engineering Algorithms, (4) Model Analysis and Simulation."

@@ -1,5 +1,5 @@
 +++
-title = "TEDIE"
+title = "DISCREETEST"
 date = 2018-07-17
 draft = false
 
@@ -7,7 +7,7 @@ draft = false
 tags = ["data-discretization", "boolean-networks"]
 
 # Tool summary to display on homepage.
-summary = "TEDIE is a two-step evaluation method for ranking discretization methods for time-series data"
+summary = "DiscreeTest is a two-step evaluation method for ranking discretization methods for time-series data"
 
 
 # Optional image to display on homepage.
@@ -31,7 +31,10 @@ caption = ""
 
 +++
 
-Full description of TEDIE with 
-1) documentation 
-2) downloadable data sample
-3) Link to preprint in BioArXiv (and eventually to paper)
+DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
+data. The underlying assumption of DiscreeTest is that an optimal discretization method should
+preserve the dynamic patterns observed in the original data across all variables. 
+
+Availability: The source code of DiscreeTest is available in our Github repository:
+https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations
+

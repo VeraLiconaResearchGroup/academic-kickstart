@@ -1,6 +1,6 @@
 +++
-title = "Undergrad/Volunteer"
-date = 2016-04-27T00:00:00
+title = "Catherine Qiu"
+date = 2018-04-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Catherine Qiu"
+summary = "Undergrad/Volunteer"
 
 
 # Optional image to display on homepage.

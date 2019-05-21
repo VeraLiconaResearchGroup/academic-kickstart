@@ -28,13 +28,14 @@ filter_default = 0
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+
 [[filter]]
   name = "All"
   tag = "*"
 
 [[filter]]
-   name = "Network Inference"
-   tag = ".network-inference"
+   name = "Data-driven Discrete Modeling"
+   tag = ".discrete-modeling"
 
    
  [[filter]]
@@ -52,11 +53,6 @@ filter_default = 0
  [[filter]]
    name = "CD8 T Cell Differentiation"
    tag = ".cd8" 
-   
-   
- [[filter]]
-   name = "Neural Networks"
-   tag = ".neuralnets"  
       
    
 #[[filter]]
