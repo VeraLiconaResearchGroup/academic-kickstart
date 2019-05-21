@@ -1,19 +1,19 @@
 +++
 title = "NSF Summer Research Experience for Undergraduates"
-date = 2016-04-28
+date = 2018-04-28
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["undergrad-research"]
+tags = ["undergraduate"]
 
 # Project summary to display on homepage.
-summary = "This Summer Research Experience for Undergraduates (REU):  Modeling and Simulation in Systems Biology (MSSB) is an NSF-sponsored research program, focused on modeling and simulation in systems biology, for U.S. citizen or permanent resident undergraduate students from around the United States and Puerto Rico."
+summary = "Summer Research Experience for Undergraduates (REU):  Modeling and Simulation in Systems Biology (MSSB) is an NSF-sponsored research program, focused on modeling and simulation in systems biology, for U.S. citizen or permanent resident undergraduate students from around the United States and Puerto Rico."
 
 abstract = "kjhwe"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "ialrgraphic.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

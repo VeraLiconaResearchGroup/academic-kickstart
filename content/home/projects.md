@@ -39,8 +39,12 @@ filter_default = 0
 
    
  [[filter]]
-   name = "Structure-Based Control"
-   tag = ".structure-based-control" 
+   name = "Control"
+   tag = ".Control" 
+   
+ [[filter]]
+   name = "Cancer Reversion"
+   tag = ".CancerReversion" 
    
  [[filter]]
    name = "Breast Cancer"
@@ -50,10 +54,24 @@ filter_default = 0
    name = "Lyme Disease"
    tag = ".lyme" 
    
+ #[[filter]]
+ #  name = "CD8 T Cell Differentiation"
+ #  tag = ".cd8" 
+   
+   [[filter]]
+   name = "Network Biology"
+   tag = ".Network-Biology" 
+   
+   
  [[filter]]
-   name = "CD8 T Cell Differentiation"
-   tag = ".cd8" 
-      
+   name = "Cancer Research"
+   tag = ".Cancer" 
+   
+   [[filter]]
+   name = "Macrophage Mechanisms"
+   tag = ".Macs" 
+   
+    
    
 #[[filter]]
 #   name = "Education & Outreach"

@@ -8,7 +8,7 @@ draft = false
 tags = ["alumni"]
 
 # Project summary to display on homepage.
-summary = "Undergrad/2016 Summer Research Fellowship Program run by Department of Health Career Opportunity"
+summary = "Undergrad/2016, Dep Health Career Opportunity"
 
 
 # Optional image to display on homepage.

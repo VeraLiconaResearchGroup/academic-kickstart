@@ -36,6 +36,10 @@ weight = 5
 
 # The Vera-Licona Research Group
 
-Our research is at the intersection of computational systems medicine and systems biology, mathematical biology and bioinformatics. We work on the design, software development and application of mathematical algorithms for the modeling, simulation and control of biological systems. 
+Our research is at the intersection of computational systems medicine and systems biology, mathematical biology and bioinformatics. We work on the design, software development and application of mathematical algorithms for the modeling, simulation and control of biological systems. In molecular biology the systems of our interest include gene regulatory networks and intracellular signaling networks where we aim to understand and control the cells' intricate regulatory programs. We are focused on two main research areas:
 
-In molecular biology the systems of our interest include gene regulatory networks and intracellular signaling networks where we aim to understand the cells' intricate regulatory programs and disregulation in diseases such as cancer. Our ultimate goal is the development of cell reprogramming and control strategies that can translate into novel therapeutics.
+1. ## Cancer research 
+We are interested in the development and application of computational systems biology tools to identify molecular drivers for tumor cells' reprogramming. We are particularly interested in cancer reversion mechanisms and their therapeutic potential. We are currently focused on Breast Cancer.
+
+2. ## Immunology 
+We are interested in understanding the underlying cellular and molecular mechanisms responsible for the onset, maintenance, and resolution of the immune response to pathogens in vivo and in vitro. We are also interested in the role of macrophages in the tumor microenvironment. We are currenty working with BMDMs to study Lyme disease and on tissue-resident macrophages in the lung and spleen.

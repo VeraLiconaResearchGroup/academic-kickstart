@@ -23,9 +23,9 @@ publication = "Ledder G, Carpenter JP, Comar TD, editors. Washington: The Mathem
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "xxx."
+abstract = "This article describes a 2-3 day workshop offered at regional undergraduate teaching institutions and high schools. Its goal is to use discrete dynamic models, in particular Boolean networks, to illustrate mathematical modeling of biological networks, such as gene regulatory networks, to a broad audience that can include undergraduate faculty, undergraduate students, high school teachers, and even high school students. The workshop covers the basics of biology, mathematical modeling, and model analysis, using the well-known lac operon network in E coli as a model system. The workshop materials can be used independently or as one or several modules in a college or high school class."
 
-#abstract_short = "A short version of the abstract."
+#abstract_short = "This article describes a 2-3 day workshop offered at regional undergraduate teaching institutions and high schools. Its goal is to use discrete dynamic models, in particular Boolean networks, to illustrate mathematical modeling of biological networks, such as gene regulatory networks, to a broad audience that can include undergraduate faculty, undergraduate students, high school teachers, and even high school students. The workshop covers the basics of biology, mathematical modeling, and model analysis, using the well-known lac operon network in E coli as a model system. The workshop materials can be used independently or as one or several modules in a college or high school class."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -50,6 +50,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
+    
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
@@ -66,5 +67,8 @@ highlight = true
 image = ""
 caption = ""
 
+[[url_custom]]
+    name = "Materials"
+    url = "http://admg.vbi.vt.edu/home/Outreach/Workshops/2"
 
 +++

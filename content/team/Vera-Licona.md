@@ -8,7 +8,7 @@ draft = false
 tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Group Leader"
+summary = "Team Leader"
 
 
 # Optional image to display on homepage.
@@ -31,4 +31,7 @@ caption = ""
 
 +++
 
-jhb
+Dr. Vera-Licona is the group leader of the Computational Systems Medicine Lab at
+the Center for Quantitative Medicine UConn Health. She has extensive experience in the development and application of mathematical and computational tools for the modeling, simulation, analysis and control of biological networks. She is an interdisciplinary scientist, with a background in mathematics and computational systems biology.
+
+[CV](https://drive.google.com/open?id=1HOEIN4s4R02ZDOi6ePtrIJAo9KZk3uhX)

@@ -39,7 +39,10 @@ view = 0
    name = "High School Level"
    tag = ".high-school"
    
-  
+  [[filter]]
+   name = "Teachers Training"
+   tag = ".TeachersTraining"
+   
    
 +++
 

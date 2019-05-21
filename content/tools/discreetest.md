@@ -1,5 +1,5 @@
 +++
-title = "DISCREETEST"
+title = "DiscreeTest"
 date = 2018-07-17
 draft = false
 
@@ -31,10 +31,13 @@ caption = ""
 
 +++
 
+## Description
 DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
 data. The underlying assumption of DiscreeTest is that an optimal discretization method should
 preserve the dynamic patterns observed in the original data across all variables. 
 
-Availability: The source code of DiscreeTest is available in our Github repository:
-https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations
+## Availability 
+The source code of DiscreeTest is available in our Github repository: https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations
 
+## Preprint
+ Y Li, T Jann, P Vera-Licona. (2018). [Benchmarking Time-Series Data Discretization on Inference Methods](https://veraliconaresearchgroup.github.io/publication/discretization/). Submitted.

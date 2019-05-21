@@ -31,4 +31,4 @@ caption = ""
 
 +++
 
-jhb
+Lauren is an MD/PhD student from the University of Connecticut School of Medicine. She is working on quantitative analysis of cancer reversion through mathematical control approaches.

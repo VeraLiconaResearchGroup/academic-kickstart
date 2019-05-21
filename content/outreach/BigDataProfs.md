@@ -1,16 +1,16 @@
 +++
 title = "Big Genomic Data Skills Training for Professors (CT)"
-date = 2017-04-28
+date = 2018-04-28
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["undergraduate"]
+tags = ["TeachersTraining"]
 
 # Project summary to display on homepage.
 summary = "Dr. Vera-Licona has participated yearly by introducing attendees to Network Modeling."
 
-abstract = "kjhwe"
+abstract = ""
 
 # Optional image to display on homepage.
 image_preview = "ialrgraphic.jpg"

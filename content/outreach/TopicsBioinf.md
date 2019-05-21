@@ -1,6 +1,6 @@
 +++
 title = "MEDS6498: Topics in Bioinformatics and Computational  Biology"
-date = 2017-04-28
+date = 2018-04-28
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -10,7 +10,7 @@ tags = ["graduate"]
 # Project summary to display on homepage.
 summary = "Dr. Vera-Licona introduces the topic of Network Biology in this graduate-level class."
 
-abstract = "kjhwe"
+abstract = ""
 
 # Optional image to display on homepage.
 image_preview = ""

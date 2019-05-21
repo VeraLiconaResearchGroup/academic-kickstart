@@ -1,6 +1,6 @@
 +++
 title = "Leelakrishna Channa"
-date = 2018-05-27T00:00:00
+date = 2018-03-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Undergrad/Intern"
+summary = "Pre-med Student"
 
 
 # Optional image to display on homepage.

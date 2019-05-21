@@ -8,7 +8,7 @@ draft = false
 tags = ["alumni"]
 
 # Project summary to display on homepage.
-summary = "Undergrad/2016 CQM REU program"
+summary = "Undergrad/REU summer 2016"
 
 
 # Optional image to display on homepage.

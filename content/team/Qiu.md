@@ -8,11 +8,11 @@ draft = false
 tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Undergrad/Volunteer"
+summary = "Pre-med Student"
 
 
 # Optional image to display on homepage.
-image_preview = "portrait.jpg"
+image_preview = "Catherine.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,4 +31,4 @@ caption = ""
 
 +++
 
-jhb
+Catherine is a pre-med student pursuing a double degree in Molecular & Cell Biology and Mathematics-Statistics.
