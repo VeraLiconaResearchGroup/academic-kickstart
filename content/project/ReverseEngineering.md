@@ -1,5 +1,5 @@
 +++
-title = "Development of Novel Network Inference Methods"
+title = "Development and Applicaton of Network Inference Methods"
 date = 2016-04-28
 draft = false
 

@@ -1,6 +1,6 @@
 +++
-title = "Leelakrishna Channa"
-date = 2018-03-27T00:00:00
+title = "Maddie Gastonguay"
+date = 2019-05-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,11 +8,11 @@ draft = false
 tags = ["alumni"]
 
 # Project summary to display on homepage.
-summary = "Pre-med Student"
+summary = "Honors Program Student"
 
 
 # Optional image to display on homepage.
-image_preview = "UConn-kris.jpg"
+image_preview = "Maddie.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,4 +31,4 @@ caption = ""
 
 +++
 
-jhb
+Maddie is a UConn Honors Program graduate wtih a major in Applied Mathematics and a minor in Bioinformatics and French.

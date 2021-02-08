@@ -1,6 +1,6 @@
 +++
-title = "OCSANA_V2"
-date = 2018-01-17
+title = "OCSANA"
+date = 2015-01-17
 draft = false
 
 # Tags: can be used for filtering tools.
@@ -36,9 +36,7 @@ caption = ""
 OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.
 
 ## Download and Run
-The first version of OCSANA, included in BiNoM, can be found in here: http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html.
-
-The new version of OCSANA is a standalone Cystoscape App that works in Cytoscape 3.0 and above. 
+OCSANA, included in BiNoM, can be found in here: http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html.
 
 
 ## Publications

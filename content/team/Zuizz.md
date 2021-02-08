@@ -1,18 +1,18 @@
 +++
-title = "Leelakrishna Channa"
-date = 2018-03-27T00:00:00
+title = "Zuizz Saeed"
+date = 2019-05-01T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["alumni"]
+# Example: `tags = ["current", "alumni"]`
+tags = ["current"]
 
 # Project summary to display on homepage.
-summary = "Pre-med Student"
+summary = "High school intern, summer 2020"
 
 
 # Optional image to display on homepage.
-image_preview = "UConn-kris.jpg"
+image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -30,5 +30,3 @@ image = ""
 caption = ""
 
 +++
-
-jhb

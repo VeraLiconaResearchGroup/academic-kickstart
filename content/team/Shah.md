@@ -1,21 +1,21 @@
 +++
-title = "Leelakrishna Channa"
-date = 2018-03-27T00:00:00
+title = "Vishal Shah"
+date = 2016-06-27T00:00:00
 draft = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
+# Example: `tags = ["current", "alumni"]`
 tags = ["alumni"]
 
 # Project summary to display on homepage.
-summary = "Pre-med Student"
+summary = "High school intern, summer 2017"
 
 
 # Optional image to display on homepage.
-image_preview = "UConn-kris.jpg"
+image_preview = "portrait.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://vishalmshah.github.io/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -30,5 +30,3 @@ image = ""
 caption = ""
 
 +++
-
-jhb
